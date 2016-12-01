@@ -1,0 +1,13 @@
+{
+  "webserver" : {
+    "port" : 7081,
+    "basePath": "/services/usermodel"
+  },
+  "sparql":{
+  	"reqBaseUrl": "lnv-3190.sb.dfki.de",
+	"reqPath": "/openrdf-sesame/repositories/APPsistOntID",
+	"reqBasePort": "8080",
+	"ontologyPrefix": "app:",
+	"ontologyUri": "http://www.appsist.de/ontology/"	
+  }
+} 
